@@ -23,8 +23,8 @@ let dataLinks = [
      {titleBadge: 'flickr.com', link: 'https://www.flickr.com/'},
      {titleBadge: 'Сетевая академия Cisco ', link: 'https://www.netacad.com/portal/learning'},
      {titleBadge: 'Конвертируем SVG-иконку в код ', link: 'https://denis-creative.com/svg-to-bg/'},
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
+     {titleBadge: 'Начало работы с Firebase в React JS ', link: 'https://www.youtube.com/watch?v=7xf0Kz6WGu8'},
+     {titleBadge: 'Beautiful CSS box-shadow examples', link: 'https://getcssscan.com/css-box-shadow-examples'},
      /*{titleBadge: ' ', link: ' '},*/
      /*{titleBadge: ' ', link: ' '},*/
      /*{titleBadge: ' ', link: ' '},*/
