@@ -18,28 +18,28 @@ let dataLinks = [
     {titleBadge: 'Торрент трекер underver.se', link: 'https://underver.se/'},
     {titleBadge: 'HTML DOM Events', link: 'https://www.w3schools.com/jsref/dom_obj_event.asp'},
     {titleBadge: 'ОРІЄНТУВАННЯ', link: 'https://orientation.pp.ua/'},
-     {titleBadge: 'Интернет-источник свободно используемых изображений', link: 'https://unsplash.com/'},
-     {titleBadge: 'pixabay.com', link: 'https://pixabay.com/'},
-     {titleBadge: 'flickr.com', link: 'https://www.flickr.com/'},
-     {titleBadge: 'Сетевая академия Cisco ', link: 'https://www.netacad.com/portal/learning'},
-     {titleBadge: 'Конвертируем SVG-иконку в код ', link: 'https://denis-creative.com/svg-to-bg/'},
-     {titleBadge: 'Начало работы с Firebase в React JS ', link: 'https://www.youtube.com/watch?v=7xf0Kz6WGu8'},
-     {titleBadge: 'Beautiful CSS box-shadow examples', link: 'https://getcssscan.com/css-box-shadow-examples'},
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
-     /*{titleBadge: ' ', link: ' '},*/
+    {titleBadge: 'Интернет-источник свободно используемых изображений', link: 'https://unsplash.com/'},
+    {titleBadge: 'pixabay.com', link: 'https://pixabay.com/'},
+    {titleBadge: 'flickr.com', link: 'https://www.flickr.com/'},
+    {titleBadge: 'Сетевая академия Cisco ', link: 'https://www.netacad.com/portal/learning'},
+    {titleBadge: 'Конвертируем SVG-иконку в код ', link: 'https://denis-creative.com/svg-to-bg/'},
+    {titleBadge: 'Начало работы с Firebase в React JS ', link: 'https://www.youtube.com/watch?v=7xf0Kz6WGu8'},
+    {titleBadge: 'Beautiful CSS box-shadow examples', link: 'https://getcssscan.com/css-box-shadow-examples'},
+    {titleBadge: 'hostronavt.ru', link: 'https://hostronavt.ru/#hosting'},
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
+    /*{titleBadge: ' ', link: ' '},*/
 ];
 
 let blocks = document.querySelector('.blocks');
