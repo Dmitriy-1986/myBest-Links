@@ -16,7 +16,30 @@ let dataLinks = [
     {titleBadge: 'Freelancehunt', link: 'https://freelancehunt.com/my'},
     {titleBadge: 'Untree.co Free Templates', link: 'https://untree.co/free-templates/'},
     {titleBadge: 'Торрент трекер underver.se', link: 'https://underver.se/'},
-  /*{titleBadge: ' ', link: ' '},*/
+    {titleBadge: 'HTML DOM Events', link: 'https://www.w3schools.com/jsref/dom_obj_event.asp'},
+    {titleBadge: 'ОРІЄНТУВАННЯ', link: 'https://orientation.pp.ua/'},
+     {titleBadge: 'Интернет-источник свободно используемых изображений', link: 'https://unsplash.com/'},
+     {titleBadge: 'pixabay.com', link: 'https://pixabay.com/'},
+     {titleBadge: 'flickr.com', link: 'https://www.flickr.com/'},
+     {titleBadge: 'Сетевая академия Cisco ', link: 'https://www.netacad.com/portal/learning'},
+     {titleBadge: 'Конвертируем SVG-иконку в код ', link: 'https://denis-creative.com/svg-to-bg/'},
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
+     /*{titleBadge: ' ', link: ' '},*/
 ];
 
 let blocks = document.querySelector('.blocks');
